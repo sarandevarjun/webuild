@@ -1,6 +1,6 @@
 // About.js
 import React from "react";
-import aboutImg from "./assets/img/about.jpg"; // Update the path to your image
+import aboutImg from "./assets/img/arun.jpg"; // Update the path to your image
 import signatureImg from "./assets/img/signature.jpg"; // Update the path to your image
 
 const About = () => {
